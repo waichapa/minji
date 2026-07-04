@@ -46,8 +46,8 @@ dotnet restore
 dotnet build
 
 # Configure appsettings.json with your tokens:
-# - DiscordToken
-# - OpenAIApiKey
+## - DiscordToken
+## - OpenAIApiKey
 
 # Run the bot
 dotnet run
