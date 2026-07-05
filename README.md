@@ -34,3 +34,20 @@ Minji is an interactive Discord bot that turns learning Korean into an exciting 
 - OpenAI — AI-powered conversations and lesson generation
 
 📂 Installation (for Developers)
+git clone https://github.com/waichapa/minji.git
+cd minji-bot
+
+Restore dependencies
+dotnet restore
+
+Build the project
+dotnet build
+
+Configure appsettings.json with your tokens:
+- DiscordToken
+- OpenAIApiKey
+
+Run the bot
+dotnet run
+
+Add Minji to your server and start learning Korean with fun! 🇰🇷✨
