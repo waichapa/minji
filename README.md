@@ -2,7 +2,7 @@
 
 Minji is an interactive Discord bot that turns learning Korean into an exciting RPG adventure. Instead of boring textbooks — live AI dialogues, leveling up, quizzes based on your own words, and real TOPIK exams right in your chat.
 
-![Minji Avatar](minji-avatar.png)
+<img src="minji-avatar.png" alt="Minji Avatar" width="200" height="200">
 
 🌐 **Official Website:** [waichapa.ru/minji.html](https://waichapa.ru/minji.html)
 
